@@ -15,8 +15,7 @@ Welcome to my personal portfolio website! This modern, responsive web applicatio
 - ⚡ Built with Vite for lightning-fast performance
 - 🎯 Interactive UI components
 - 🌙 Clean and professional layout
-- 🚀 Optimized for production
-
+- 
 ## 🛠️ Built With
 
 - **Vite** - Next generation frontend tooling
@@ -28,10 +27,8 @@ Welcome to my personal portfolio website! This modern, responsive web applicatio
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
 
 ## ⭐ Show Your Support
 
 Give a ⭐ if you like this project!
+
