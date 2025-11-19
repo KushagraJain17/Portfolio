@@ -2,7 +2,7 @@ import html from "../../../assets/html.png";
 import css from "../../../assets/css.png";
 import javascript from "../../../assets/javascript.png";
 import Pandas from "../../../assets/Pandas.png";
-import python from "../../../assets/python.png";
+import python from "../../../assets/Python.png";
 import git from "../../../assets/git.png";
 import github from "../../../assets/github.png";
 import FastAPI from "../../../assets/FastAPI.png";
